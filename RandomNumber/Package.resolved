@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RandomNumberMaker",
+        "repositoryURL": "https://github.com/kanghuiseon/RandomNumberMaker.git",
+        "state": {
+          "branch": null,
+          "revision": "146ac36b3c32414baf27e1afd5a344f28ae44393",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
