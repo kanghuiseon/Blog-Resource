@@ -4,6 +4,15 @@
 
 블로그 주소 : https://kangheeseon.tistory.com
 
-DiffableDataSource : https://kangheeseon.tistory.com/22 (실습), https://kangheeseon.tistory.com/18 (이론)
+## DiffableDataSource
+url : https://kangheeseon.tistory.com/22 (실습), https://kangheeseon.tistory.com/18 (이론)
+공부 주제 : DiffableDataSource, Snapshot
 
-SongList : https://kangheeseon.tistory.com/21?category=896089 
+
+## SongList
+url : https://kangheeseon.tistory.com/21?category=896089 
+공부 주제 : URLSession
+
+## RandomNumber
+url : https://kangheeseon.tistory.com/28 (실습)
+공부 주제 : Library 생성 및 사용, Swift Package Manager 
