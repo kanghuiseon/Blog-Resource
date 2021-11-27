@@ -1,4 +1,3 @@
-import UIKit
 public struct RandomNumberMaker {
     // 0..<numberRange
     public let numberRange: Int
@@ -8,6 +7,8 @@ public struct RandomNumberMaker {
     }
     // 생성된 랜덤 숫자
     public var randomNumber: Int{
-        return Int.random(in: 0..<numberRange)
+        get{
+            return Int.random(in: 0..<numberRange)
+        }
     }
 }
